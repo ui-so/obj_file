@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82104\\source\\repos\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{738EA243-56CF-4AF2-943B-A70880247B5A}|\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\82104\\source\\repos\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uD504\uB85C\uC81D\uD2B8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{738EA243-56CF-4AF2-943B-A70880247B5A}|\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uD504\uB85C\uC81D\uD2B8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uD504\uB85C\uC81D\uD2B8.cpp",
+              "DocumentMoniker": "C:\\Users\\82104\\source\\repos\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uD504\uB85C\uC81D\uD2B8.cpp",
+              "RelativeDocumentMoniker": "\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uD504\uB85C\uC81D\uD2B8.cpp",
+              "ToolTip": "C:\\Users\\82104\\source\\repos\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uD504\uB85C\uC81D\uD2B8.cpp",
+              "RelativeToolTip": "\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4_\uD504\uB85C\uC81D\uD2B8\\\uD504\uB85C\uC81D\uD2B8.cpp",
+              "ViewState": "AgIAAAECAAAAAAAAAAAAAAcCAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T07:07:45.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
